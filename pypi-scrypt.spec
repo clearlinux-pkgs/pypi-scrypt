@@ -5,7 +5,7 @@
 #
 Name     : pypi-scrypt
 Version  : 0.8.20
-Release  : 3
+Release  : 4
 URL      : https://files.pythonhosted.org/packages/48/38/9816ba98592b64ab3d50199699485912877d4e4507277e92ca312abf9e02/scrypt-0.8.20.tar.gz
 Source0  : https://files.pythonhosted.org/packages/48/38/9816ba98592b64ab3d50199699485912877d4e4507277e92ca312abf9e02/scrypt-0.8.20.tar.gz
 Summary  : Bindings for the scrypt key derivation function library
@@ -62,7 +62,7 @@ export http_proxy=http://127.0.0.1:9/
 export https_proxy=http://127.0.0.1:9/
 export no_proxy=localhost,127.0.0.1,0.0.0.0
 export LANG=C.UTF-8
-export SOURCE_DATE_EPOCH=1683047899
+export SOURCE_DATE_EPOCH=1685548263
 export GCC_IGNORE_WERROR=1
 export AR=gcc-ar
 export RANLIB=gcc-ranlib
