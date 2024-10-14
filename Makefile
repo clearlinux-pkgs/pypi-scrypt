@@ -1,5 +1,5 @@
 PKG_NAME := pypi-scrypt
-URL = https://files.pythonhosted.org/packages/57/83/06ecd1d52c506d3f6aa4a43ba84ab8d4218bf5bf03656ac9a93be357e72e/scrypt-0.8.24.tar.gz
+URL = https://files.pythonhosted.org/packages/0f/ad/496eca399cf3ceaa4b2c9b238a7630efcddb5a81eacaba926af805a6fbb3/scrypt-0.8.27.tar.gz
 ARCHIVES = 
 
 include ../common/Makefile.common
