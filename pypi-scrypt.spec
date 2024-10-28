@@ -7,7 +7,7 @@
 #
 Name     : pypi-scrypt
 Version  : 0.8.27
-Release  : 8
+Release  : 9
 URL      : https://files.pythonhosted.org/packages/0f/ad/496eca399cf3ceaa4b2c9b238a7630efcddb5a81eacaba926af805a6fbb3/scrypt-0.8.27.tar.gz
 Source0  : https://files.pythonhosted.org/packages/0f/ad/496eca399cf3ceaa4b2c9b238a7630efcddb5a81eacaba926af805a6fbb3/scrypt-0.8.27.tar.gz
 Summary  : Bindings for the scrypt key derivation function library
